@@ -1,0 +1,1 @@
+# Study-the-effect-of-length-of-simple-pendulum-on-its-time-period-and-hence-find-the-value-of-g-by-ca
